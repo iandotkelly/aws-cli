@@ -1,6 +1,7 @@
 {
   "name": "aws-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "preferGlobal": true,
   "description": "Command Line Tools for Amazon Web Services",
   "bin": "./bin/aws.js",
   "scripts": {
