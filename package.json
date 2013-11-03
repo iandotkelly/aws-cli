@@ -1,0 +1,25 @@
+{
+  "name": "aws-cli",
+  "version": "0.0.0",
+  "description": "Command Line Tools for Amazon Web Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iandotkelly/aws-cli"
+  },
+  "keywords": [
+    "AWS"
+  ],
+  "author": "Ian Kelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iandotkelly/aws-cli/issues"
+  },
+  "dependencies": {
+    "operetta": "0.0.5",
+    "aws-sdk": "~2.0.0-rc1"
+  }
+}
