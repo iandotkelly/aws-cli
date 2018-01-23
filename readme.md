@@ -1,5 +1,12 @@
 # AWS-CLI
 
+# Deprecated
+
+This module only implemented the iam-servercertdel command.  I would recommend
+using the official AWS CLI tools, available here:
+
+https://www.npmjs.com/package/aws-sdk
+
 ## Command Line tools for Amazon Web Services
 
 The purpose of these tools are to provide an alternative to the Java command line tools, and use
